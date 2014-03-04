@@ -84,26 +84,26 @@
                <p>Your browser does not support HTML5 canvas.</p>
             </canvas>
             <center><script type="text/javascript">
-		sa_client = "21390bfccc8aa6eb5524caea58b2c26d";
-		sa_code = "5dac3cba502a260aebf26f9d4049c074";
-		sa_protocol = ("https:"==document.location.protocol)?"https":"http";
-		sa_pline = "0";
-		sa_maxads = "2";
-		sa_bgcolor = "FFFFFF";
-		sa_bordercolor = "BDD631";
-		sa_superbordercolor = "BDD631";
-		sa_linkcolor = "001EB5";
-		sa_desccolor = "000000";
-		sa_urlcolor = "788300";
-		sa_b = "0";
-		sa_format = "banner_468x60";
-		sa_width = "468";
-		sa_height = "60";
-		sa_location = "0";
-		sa_radius = "0";
-		sa_borderwidth = "1";
-		sa_font = "0";
-		document.write(unescape("%3cscript type='text/javascript' src='"+sa_protocol+"://sa.entireweb.com/sense.js'%3e%3c/script%3e"));
+					sa_client = "21390bfccc8aa6eb5524caea58b2c26d";
+					sa_code = "5dac3cba502a260aebf26f9d4049c074";
+					sa_protocol = ("https:"==document.location.protocol)?"https":"http";
+					sa_pline = "0";
+					sa_maxads = "2";
+					sa_bgcolor = "FFFFFF";
+					sa_bordercolor = "BDD631";
+					sa_superbordercolor = "BDD631";
+					sa_linkcolor = "001EB5";
+					sa_desccolor = "000000";
+					sa_urlcolor = "788300";
+					sa_b = "0";
+					sa_format = "banner_468x60";
+					sa_width = "468";
+					sa_height = "60";
+					sa_location = "0";
+					sa_radius = "0";
+					sa_borderwidth = "1";
+					sa_font = "0";
+					document.write(unescape("%3cscript type='text/javascript' src='"+sa_protocol+"://sa.entireweb.com/sense.js'%3e%3c/script%3e"));
             </script></center>
         </div>
 
